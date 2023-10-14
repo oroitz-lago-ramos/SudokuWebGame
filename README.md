@@ -10,6 +10,8 @@ Afin de comprendre le fonctionnement de Javascript, je me suis basé sur la vide
 [#5] Coder un Sudoku en javascript | 20 Semaines 20 Projets | Projet Javascript pour débutants 
         https://www.youtube.com/watch?v=4TgJ3ICyGNY
 
+Samedi 14/10/2023
+Ajout de quelques fonctionnalites de selection et methodes pour ecrire les chiffres. Tout est très brut et pas très ergonomique.
 
 
 
